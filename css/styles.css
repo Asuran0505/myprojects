@@ -1,0 +1,61 @@
+#about-me {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  margin: none
+}
+
+#works {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+#footer {
+  text-align: center;
+  padding-bottom:10px
+}
+
+p {
+  margin-bottom: 0px;
+  text-align: center
+}
+
+.container-fluid {
+  margin-top:10px
+}
+
+hr {
+  background-color: white;
+  border: dotted #A9A9A9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: inherit;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+
+.jumbotron {
+  padding: 12em 8em;
+  background-color: #FFFFFF;
+  border-radius: .3rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.footer-social-icon {
+  margin: 10px 10px;
+}
+
+.profilepic {
+  margin:200px auto;
+  width: 200px;
+  align: center
+}
